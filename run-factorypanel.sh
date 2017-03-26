@@ -1,0 +1,1 @@
+cd bin; java -classpath .:../lib/derby.jar:../lib/jdom.jar:../lib/jlfgr-1_0.jar:../lib/junit.jar:../lib/ktn_package.jar:../lib/ojdbc14.jar:../lib/xom-1.0b5.jar no.ntnu.fp.gui.FactoryProjectPanel; cd ..
